@@ -12,6 +12,15 @@
   text-decoration: none;
 }
 
+.about-bolded {
+  font-family: 'Lexend', sans-serif;
+  line-height: 1.4rem;
+  margin-left: 4rem;
+  width: 40vw;
+  font-weight: 500;
+  font-size: 1.15rem;
+}
+
 .introduction-writing-one {
   font-family: 'Lexend', sans-serif;
   line-height: 1.4rem;
@@ -152,7 +161,7 @@
 .about-menu {
   text-align: right;
   float: right;
-  margin-right: 3.1rem;
+  margin-right: 3rem;
   font-family: 'Lexend', sans-serif;
 }
 
@@ -163,7 +172,7 @@
 .contact-menu {
   text-align: right;
   float: right;
-  margin-right: 3rem;
+  margin-right: 3.1rem;
   font-family: 'Lexend', sans-serif;
 }
 
@@ -235,4 +244,31 @@ iframe {
   height: 28.125rem;
   margin: auto;
   display: block;
+}
+
+.artist-picture {
+  width: 20rem;
+  margin-left: 4rem;
+}
+
+.contact-bolded {
+  font-family: 'Lexend', sans-serif;
+  line-height: 1.4rem;
+  margin-left: 4rem;
+  width: 40vw;
+  font-weight: 500;
+  font-size: 3rem;
+  text-align: center;
+  margin: auto;
+}
+
+.contact-not-bolded {
+  font-family: 'Lexend', sans-serif;
+  line-height: 1.4rem;
+  margin-left: 4rem;
+  width: 40vw;
+  font-weight: 300;
+  font-size: 1.15rem;
+  text-align: center;
+  margin: auto;
 }

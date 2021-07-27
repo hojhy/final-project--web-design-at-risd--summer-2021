@@ -143,3 +143,9 @@ header {
   grid-row-start: 11;
   grid-row-end: 15;
 }
+
+.about-menu {
+  text-align: right;
+  float: right;
+  margin-right: 3rem;
+}

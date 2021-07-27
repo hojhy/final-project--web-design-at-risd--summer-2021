@@ -18,6 +18,11 @@ header {
   margin-bottom: 2rem;
   width: 40vw;
 }
+
+.introduction-writing-two {
+  font-family: 'Lexend', sans-serif;
+}
+
 #piece-one {
   height: 30rem;
 }

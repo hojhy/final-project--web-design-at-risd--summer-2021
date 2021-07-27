@@ -60,11 +60,21 @@
   grid-row-end: 7;
 }
 
+.gallery__item--1:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--2 {
   grid-column-start: 4;
   grid-column-end: 5;
   grid-row-start: 1;
   grid-row-end: 4;
+}
+
+.gallery__item--2:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--3 {
@@ -74,11 +84,21 @@
   grid-row-end: 4;
 }
 
+.gallery__item--3:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--4 {
   grid-column-start: 6;
   grid-column-end: 7;
   grid-row-start: 1;
   grid-row-end: 4;
+}
+
+.gallery__item--4:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--5 {
@@ -88,11 +108,21 @@
   grid-row-end: 7;
 }
 
+.gallery__item--5:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--6 {
   grid-column-start: 5;
   grid-column-end: 6;
   grid-row-start: 4;
   grid-row-end: 7;
+}
+
+.gallery__item--6:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--7 {
@@ -102,11 +132,21 @@
   grid-row-end: 7;
 }
 
+.gallery__item--7:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--8 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 11;
   grid-row-end: 15;
+}
+
+.gallery__item--8:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--9 {
@@ -116,11 +156,21 @@
   grid-row-end: 11;
 }
 
+.gallery__item--9:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--10 {
   grid-column-start: 3;
   grid-column-end: 5;
   grid-row-start: 7;
   grid-row-end: 11;
+}
+
+.gallery__item--10:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--11 {
@@ -130,11 +180,21 @@
   grid-row-end: 11;
 }
 
+.gallery__item--11:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--12 {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 11;
   grid-row-end: 15;
+}
+
+.gallery__item--12:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .gallery__item--13 {
@@ -144,6 +204,11 @@
   grid-row-end: 15;
 }
 
+.gallery__item--13:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--14 {
   grid-column-start: 4;
   grid-column-end: 5;
@@ -151,11 +216,21 @@
   grid-row-end: 15;
 }
 
+.gallery__item--14:hover {
+  background-color: #000;
+  opacity: 0.4;
+}
+
 .gallery__item--15 {
   grid-column-start: 5;
   grid-column-end: 7;
   grid-row-start: 11;
   grid-row-end: 15;
+}
+
+.gallery__item--15:hover {
+  background-color: #000;
+  opacity: 0.4;
 }
 
 .about-menu {
@@ -166,7 +241,7 @@
 }
 
 .about-menu:hover {
-  text-decoration: underline;
+  opacity: 0.4;
 }
 
 .contact-menu {
@@ -177,7 +252,7 @@
 }
 
 .contact-menu:hover {
-  text-decoration: underline;
+  opacity: 0.4;
 }
 
 a {

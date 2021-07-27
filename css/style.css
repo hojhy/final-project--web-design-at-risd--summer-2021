@@ -207,10 +207,17 @@ nav > ul > li > a:hover {
 .content {
   font-family: 'Lexend', sans-serif;
   margin-left: 4rem;
+  font-weight: 300;
 }
 
 .piece-writing {
   width: 40vw;
   margin-bottom: 2rem;
   line-height: 1.4rem;
+}
+
+.piece-title {
+  font-weight: 500;
+  line-height: 1.4rem;
+  font-size: 1.15rem;
 }

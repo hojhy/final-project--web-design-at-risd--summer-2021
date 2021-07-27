@@ -73,3 +73,10 @@ header {
   grid-row-start: 4;
   grid-row-end: 7;
 }
+
+.gallery__item--6 {
+  grid-column-start: 5;
+  grid-column-end: 6;
+  grid-row-start: 4;
+  grid-row-end: 7;
+}

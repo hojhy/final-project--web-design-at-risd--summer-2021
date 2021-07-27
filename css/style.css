@@ -59,3 +59,10 @@ header {
   grid-row-start: 1;
   grid-row-end: 4;
 }
+
+.gallery__item--4 {
+  grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}

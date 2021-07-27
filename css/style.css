@@ -152,7 +152,7 @@
 .about-menu {
   text-align: right;
   float: right;
-  margin-right: 3rem;
+  margin-right: 3.1rem;
   font-family: 'Lexend', sans-serif;
 }
 
@@ -163,7 +163,7 @@
 .contact-menu {
   text-align: right;
   float: right;
-  margin-right: 3.1rem;
+  margin-right: 3rem;
   font-family: 'Lexend', sans-serif;
 }
 
@@ -226,6 +226,13 @@ nav > ul > li > a:hover {
 .image-pictures {
   height: 85vh;
   margin-left: 0;
+  margin: auto;
+  display: block;
+}
+
+iframe {
+  width: 50rem;
+  height: 28.125rem;
   margin: auto;
   display: block;
 }

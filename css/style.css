@@ -8,6 +8,7 @@ header {
   margin-top: 5rem;
   margin-bottom: 2rem;
   margin-left: 4rem;
+  text-decoration: none;
 }
 
 .introduction-writing-one {
@@ -148,4 +149,9 @@ header {
   text-align: right;
   float: right;
   margin-right: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }

@@ -12,6 +12,10 @@
   text-decoration: none;
 }
 
+.header:hover {
+  opacity: 0.4;
+}
+
 .about-bolded {
   font-family: 'Lexend', sans-serif;
   line-height: 1.4rem;
@@ -346,4 +350,8 @@ iframe {
   font-size: 1.15rem;
   text-align: center;
   margin: auto;
+}
+
+.contact-bolded:hover {
+  opacity: 0.4;
 }

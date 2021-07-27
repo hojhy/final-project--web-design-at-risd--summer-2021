@@ -13,6 +13,7 @@ header {
 
 .introduction-writing-one {
   font-family: 'Lexend', sans-serif;
+  line-height: 1.4rem;
 }
 #piece-one {
   height: 30rem;

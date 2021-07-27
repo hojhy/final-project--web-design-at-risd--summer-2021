@@ -2,12 +2,12 @@
   margin-left: 4rem;
 }
 
-header {
+.header {
   font-family: 'WindSong', cursive;
   font-size: 4rem;
   margin-top: 5rem;
   margin-bottom: 2rem;
-  margin-left: 4rem;
+  margin-left: 3rem;
   text-decoration: none;
 }
 
@@ -149,9 +149,52 @@ header {
   text-align: right;
   float: right;
   margin-right: 3rem;
+  font-family: 'Lexend', sans-serif;
+}
+
+.contact-menu {
+  text-align: right;
+  float: right;
+  margin-right: 6rem;
+  font-family: 'Lexend', sans-serif;
 }
 
 a {
   text-decoration: none;
   color: black;
+  padding: 2vw;
+}
+
+nav {
+  width: 100vw;
+  background-color: #D6EFFF;
+  font-family: 'Lexend', sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+
+li{
+  list-style-type: none;
+  font-size: 1rem;
+  font-family: 'Lexend', sans-serif;
+}
+
+nav > ul > li > a:hover {
+  background-color: #C6E9FF;
+  height: 1rem;
+}
+
+#navigation-bar {
+  float: right;
+
+}
+
+.content {
+  font-family: 'Lexend', sans-serif;
+  margin-left: 4rem;
 }
